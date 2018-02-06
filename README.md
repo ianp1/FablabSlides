@@ -1,24 +1,6 @@
-## Metropolis
+## Slide-Template for Fablab Lübeck
 
-
-**IMPORTANT NOTICES FOR VERSION 1.0**
-
-* The package and theme name changed from *m* to *metropolis*!
-* The `title format` values have been restructured. Please refer to the
-  [manual][].
-
----
-
-Metropolis is a simple, modern Beamer theme suitable for anyone to use. It tries
-to minimize noise and maximize space for content; the only visual flourish it
-offers is an (optional) progress bar added to each slide. The core design
-principles of the theme were described in a blog post
-[here](http://bloerg.net/2014/09/20/a-modern-beamer-theme.html).
-
-Not convinced? Have a look at the [demo slides][].
-
-![Sample](http://i.imgur.com/Bxu52fz.png)
-
+This is a fork of [Metropolis](https://github.com/matze/mtheme) to provide a slide-template for members of fablab lübeck
 
 ## Installation
 
@@ -78,7 +60,3 @@ means that if you change the theme and re-distribute it, you *must* retain the
 copyright notice header and license it under the same CC-BY-SA license. This
 does not affect the presentation that you create with the theme.
 
-
-[demo slides]: http://mirrors.ctan.org/macros/latex/contrib/beamer-contrib/themes/metropolis/demo/demo.pdf
-[manual]: http://mirrors.ctan.org/macros/latex/contrib/beamer-contrib/themes/metropolis/doc/metropolistheme.pdf
-[CTAN]: http://ctan.org/pkg/beamertheme-metropolis
