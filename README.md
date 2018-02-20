@@ -3,7 +3,7 @@
 This is a fork of [Metropolis](https://github.com/matze/mtheme) to provide a slide-template for members of fablab lübeck
 
 ## Usage
-To use this template, simply adjust the demo.tex file and run it with the latex distribution you choose.
+To use this template, simply adjust the demo.tex file in the demo folder and run it with the latex distribution you choose.
 
 
 ## License
